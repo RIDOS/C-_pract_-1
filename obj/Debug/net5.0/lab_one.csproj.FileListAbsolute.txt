@@ -1,0 +1,16 @@
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\bin\Debug\net5.0\lab_one.exe
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\bin\Debug\net5.0\lab_one.deps.json
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\bin\Debug\net5.0\lab_one.runtimeconfig.json
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\bin\Debug\net5.0\lab_one.runtimeconfig.dev.json
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\bin\Debug\net5.0\lab_one.dll
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\bin\Debug\net5.0\ref\lab_one.dll
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\bin\Debug\net5.0\lab_one.pdb
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\obj\Debug\net5.0\lab_one.csprojAssemblyReference.cache
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\obj\Debug\net5.0\lab_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\obj\Debug\net5.0\lab_one.AssemblyInfoInputs.cache
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\obj\Debug\net5.0\lab_one.AssemblyInfo.cs
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\obj\Debug\net5.0\lab_one.csproj.CoreCompileInputs.cache
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\obj\Debug\net5.0\lab_one.dll
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\obj\Debug\net5.0\ref\lab_one.dll
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\obj\Debug\net5.0\lab_one.pdb
+C:\Users\RI.DOS\source\repos\lab_one\lab_one\obj\Debug\net5.0\lab_one.genruntimeconfig.cache
