@@ -1,5 +1,8 @@
 # Firs practis on BSU University
-In this practice, we learned OOP in C #.
+
+
+# Fist lab
+In first practice, I learned OOP in C#.
 
 Example:
 ```
@@ -10,4 +13,16 @@ Example:
 •	сортиювки по разным полям, 
 •	доступа к записи по номеру. 
 Написать программу, демонстрирующую все разработанные элементы класса.
+```
+
+
+# Second lab
+In the second lab, I studied inheritance in the context of OOP in C#
+
+Example:
+```
+
+Разработать программу с использованием наследования классов, реализующую классы:
+Точка (Координаты)  ->  Отрезок (Координаты конца, длина)  ->  Окружность (Радиус, длина окружности)
+
 ```
