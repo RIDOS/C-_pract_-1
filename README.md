@@ -1,5 +1,6 @@
 # Firs practis on BSU University
 
+
 # Fist lab
 In first practice, I learned OOP in C#.
 
@@ -13,6 +14,7 @@ Example:
 •	доступа к записи по номеру. 
 Написать программу, демонстрирующую все разработанные элементы класса.
 ```
+
 
 # Second lab
 In the second lab, I studied inheritance in the context of OOP in C#
