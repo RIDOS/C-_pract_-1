@@ -90,7 +90,7 @@ namespace lab_2
 		
 		public double Diametr()
 		{
-			return 2 * Math.PI* Radius()
+			return 2 * Math.PI* Radius();
 		}
         
         public new void Print()
