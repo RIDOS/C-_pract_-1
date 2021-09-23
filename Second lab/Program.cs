@@ -178,7 +178,8 @@ namespace lab_2
 			 * 
 			 *	Circle sm = new Circle(-6, 3, -3, 2, 0, 3);
 			 *	sm.Print();
-			 */
+			*/
+			 
 			BigFly bf = new BigFly("Туполев Ту-154", "Реактивный", "пассажирский ", 3800);
 			Deltaplan delta = new Deltaplan("Target", "Cross-Country", "AEROS");
 			CosmoStar cs = new CosmoStar("Восход", "орбитальный", 177.5);
